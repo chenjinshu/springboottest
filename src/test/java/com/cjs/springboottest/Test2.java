@@ -45,7 +45,7 @@ public class Test2 {
         add(ImmutableMap.of("name", "陈佳敏", "userid", "7005"));
         add(ImmutableMap.of("name", "张笑天", "userid", "5724"));
         add(ImmutableMap.of("name", "吕益", "userid", "3232"));
-        add(ImmutableMap.of("name", "杨金鹏", "userid", "11128"));
+//        add(ImmutableMap.of("name", "杨金鹏", "userid", "11128"));
     }};
 
     @Test
